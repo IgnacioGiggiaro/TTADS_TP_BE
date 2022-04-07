@@ -9,11 +9,16 @@ Esta busca actualizarce creando un sistema de gestion de turnos online.
 
 
 ABMC Simples: Prácticas, Especialidad, Obra Social, Paciente
+
 ABMC Complejo: Profesional, Turno
+
 Listado simple: Obra sociales, Prácticas
+
 Listado complejo: Profesional por Obra Social, Profesional por Especialidad
 
+
 Detalle: Profesional
+
 Detalle Parametrizado: Profesional
 
 Miembros:
