@@ -22,6 +22,7 @@ Miembros:
   Giggiaro, Ignacio 46866
   Tombolini, Santiago Alfredo 47431
   
-  Link Draw: https://app.diagrams.net/#G10LymtLoUV6eWkDks0NOeQGrjSqa3GUeA
   
   
+  ![TTADS_TP1_MD drawio](https://user-images.githubusercontent.com/81423722/162214729-d799dd42-cbd2-4578-ba5f-69c80152b6f5.png)
+
