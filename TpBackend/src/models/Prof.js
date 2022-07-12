@@ -5,9 +5,9 @@ const { Schema }=mongoose;
 const Schedule = require('/models/Schedule');
 
 const ProfesionalSchema = new Schema({
-    dni:{type:String, requited:true},
-    nombre : { type: String, requited:true},
-    apellido: { type: String, requited:true},
+    dni:{type:String, required:true},
+    nombre : { type: String,required:true},
+    apellido: { type: String, required:true},
     telefono:String,
     mail: String,
     direccion: String,
